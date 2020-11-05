@@ -1,0 +1,66 @@
+
+User name = Dalton
+Seen movie = False
+
+Token counts: 
+pulp 2
+fiction 2
+roger 1
+dalton 1
+avary 1
+nope 1
+nothing 1
+sure 1
+
+Possible Subjects: 
+roger
+dalton
+pulp
+nope
+fiction
+nothing
+
+Word Frequencies: 
+roger 5.88
+dalton 5.88
+avary 5.88
+nope 5.88
+nothing 5.88
+sure 5.88
+pulp 11.76
+fiction 11.76
+--------------------
+User name = Paige
+Seen movie = True
+
+Token counts: 
+marsellus 2
+wallave 1
+vincent 1
+wallace 1
+vega 1
+Paige 1
+bye 1
+anything 1
+tell 1
+yes 1
+
+Possible Subjects: 
+vincent
+wallace
+vega
+bye
+anything
+
+Word Frequencies: 
+wallave 5.88
+vincent 5.88
+wallace 5.88
+vega 5.88
+Paige 5.88
+bye 5.88
+anything 5.88
+tell 5.88
+yes 5.88
+marsellus 11.76
+--------------------
