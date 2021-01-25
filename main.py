@@ -1,5 +1,4 @@
 #Dalton Russell
-#Homework 7
 #11/1/2020
 #This is a chatbot program
 #It converses in a very limited scope about Pulp Fiction
